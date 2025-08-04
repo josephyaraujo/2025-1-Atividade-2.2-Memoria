@@ -7,7 +7,7 @@
 - **Público alvo**: alunos da disciplina de SO (Sistemas Operacionais) do curso de TADS (Superior em Tecnologia em Análise e Desenvolvimento de Sistemas) no CNAT-IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Natal-Central).
 - disciplina: **SO** [Sistemas Operacionais](https://github.com/sistemas-operacionais/)
 - professor: [Leonardo A. Minora](https://github.com/leonardo-minora)
-- Repositótio do aluno: FIXME
+- Repositótio do aluno: [Josephy C. Araujo](https://github.com/josephyaraujo)
 
 ## Tarefas do aluno
 1. Fork desse repositório e atualizar a linha 10 com o nome e link do github
